@@ -25,10 +25,12 @@ TRAVEL_KEYWORDS = [
     'destination', 'itinerary', 'flight', 'hotel', 'resort', 'hostel', 'airbnb', "go", "go to", "going to",
     'booking', 'reservation', 'airport', 'airplane', 'train', 'bus', 'car rental',
     'sightseeing', 'tourist', 'tourism', 'backpacking', 'cruise', 'beach', 'mountain','hiking',
-    'camping', 'passport', 'visa', 'currency','exchange rate', 'budget','cost', 'expense', 'landmark', 'attraction', 'museum', 'restaurant', 'cafe','food', 'cuisine', 'local', 'guide', 'map', 
+    'camping', 'passport', 'visa', 'currency','exchange rate', 'budget','cost', 'expense', 'landmark',
+    'attraction', 'museum', 'restaurant', 'cafe','food', 'cuisine', 'local', 'guide', 'map', 
     'direction', 'transportation','luggage',
-    'packing', 'weather', 'season', 
-    'adventure', 'explore', 'discover','city', 'country', 'continent', 'international', 'domestic', 'roadtrip','culture', 'language', 'translate', 'souvenir', 'photo', 'memory', 'experience'
+    'packing', 'weather', 'season', 'place', 'world',
+    'adventure', 'explore', 'discover','city', 'country', 'continent', 'international', 'domestic', 
+    'roadtrip','culture', 'language', 'translate', 'souvenir', 'photo', 'memory', 'experience'
 ]
 
 
