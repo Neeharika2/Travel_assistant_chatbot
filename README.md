@@ -4,17 +4,12 @@ A simple chatbot built with DeepSeek AI and LangChain, wrapped in a Streamlit in
 
 ## Setup
 
-1. Run the setup script to create a virtual environment and install dependencies:
-   ```
-   setup.bat
-   ```
-
-2. Activate the virtual environment (if not already activated):
+1. Activate the virtual environment (if not already activated):
    ```
    venv\Scripts\activate
    ```
 
-3. Run the chatbot:
+1. Run the chatbot:
    ```
    streamlit run app.py
    ```
